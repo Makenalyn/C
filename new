@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 3 lm lm 4096 May  5 12:08 .
+drwxr-xr-x 5 lm lm 4096 May  2 15:06 ..
+-rw-r--r-- 1 lm lm  327 Apr 29 21:56 biodata.c
+-rw-r--r-- 1 lm lm  345 May  1 23:48 case_use.c
+-rw-r--r-- 1 lm lm  795 May  1 20:50 c_calculator.c
+drwxr-xr-x 8 lm lm 4096 May  3 18:16 .git
+-rw-r--r-- 1 lm lm    0 May  5 12:11 new
+-rw-r--r-- 1 lm lm  534 May  2 15:21 pointer_declaration.c
+-rw-r--r-- 1 lm lm  368 May  3 18:14 pointer_decrement.c
+-rw-r--r-- 1 lm lm  350 May  3 17:57 pointer_increment.c
+-rw-r--r-- 1 lm lm   24 Apr 29 21:41 README.md
+-rw-r--r-- 1 lm lm  391 May  2 15:07 variable_addresses.c
+-rw-r--r-- 1 lm lm  828 May  3 17:30 various_pointer_uses.c
