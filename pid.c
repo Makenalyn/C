@@ -4,10 +4,13 @@
 int main()
 {
 	pid_t mypid;
+	pid_t parentpid;
 
 	mypid = getpid();
+	parentpid = getppid();
 
-	printf("%d\n", mypid);
+	printf("child pid: %d\n", mypid);
+	printf("Parent pid: %d\n", parentpid);
 
 	return (0);
 }
