@@ -1,12 +1,7 @@
 #include <stdio.h>
 
-int main(int argc)
+int main(int argc, char argv[])
 {
-	int i = 0;
-
-	for (;i < argc; i++)
-	{
-		printf("%d\n", i);
-	}
+	printf("%d\n", argc);
 	return (0);
 }
